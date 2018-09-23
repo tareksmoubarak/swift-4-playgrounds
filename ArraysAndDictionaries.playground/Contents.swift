@@ -37,3 +37,5 @@ gameCharacters["ghost"] = 8.6
 
 let menu = ["pizza":10.99, "salad": 7.99, "ice cream": 4.99]
 print("Total cost of my meal is: \((menu["pizza"]!) + (menu["ice cream"]!))")
+
+arc4random_uniform(6)
